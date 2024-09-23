@@ -1,0 +1,95 @@
+@import url(./media.css);
+
+body {
+    background: linear-gradient(222.26deg, #341857 1.22%, #030b38 106.28%);
+
+}
+
+.start__video-img {
+    width: 100%;
+}
+
+.start__part-img {
+    width: 300px !important;
+}
+
+.choise__block {
+    width: 300px !important;
+}
+
+.accordion__btn {
+    background: linear-gradient(222.26deg, #341857 1.22%, #030b38 106.28%);
+
+}
+
+.accordion__block {
+    background: #030b38;
+}
+
+.money__title {
+    margin-left: 95px;
+}
+
+.money__full {
+    margin-left: 220px;
+}
+
+.Started {
+    text-align: center;
+}
+
+.fully {
+    color: #8476AA;
+    width: 414px;
+    height: 40px;
+}
+
+.fully__text {
+    width: 320px;
+    height: 60px;
+    color: #8476AA;
+}
+
+.color {
+    color: #8476AA;
+}
+
+.input__color {
+    color: #F2994A;
+}
+
+
+.input {
+    background: #3C3E7D30;
+}
+
+.form-control {
+    background: #3C3E7D30 !important;
+    border: none !important;
+}
+
+.btn-outline-warning-title {
+    border: none !important;
+    background: #F2994A !important;
+    box-shadow: -11.09px 18.13px 36.65px 0px #F2994A21 !important;
+
+}
+
+.btn-outline-warning{
+    box-shadow: -11.09px 18.13px 36.65px 0px #F2994A21 !important;
+}
+
+.blocks__div{
+    justify-content: space-between !important;
+    align-items: center !important;
+}
+
+.ARShakir{
+    margin-top: 10px;
+    color: #F2994A;
+}
+
+.text__orange{
+    color: #F2994A;
+}
+

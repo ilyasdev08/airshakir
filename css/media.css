@@ -1,0 +1,34 @@
+@media (max-width: 476px) {
+    .money__full {
+        margin-left: 100px !important;
+    }
+
+    .money__title {
+        margin-left: 50px;
+    }
+}
+
+@media (max-width: 991px) {
+    .Finding {
+        margin-left: 80px;
+    }
+}
+
+@media (max-width: 538px) {
+    .fully {
+        width: 210px;
+        margin-top: 5px !important;
+    }
+}
+
+
+@media (max-width: 420px) {
+    .Finding {
+        margin-left: 0px;
+    }
+
+    .and{
+        margin-top: 15px !important;
+        margin-bottom: 8px !important; 
+    }
+}
